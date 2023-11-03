@@ -2,13 +2,13 @@
 
 В этой инструкции описан процесс установки программ для работы с SQLite. 
 ## Содержание: 
-1. Установка для Windows
+1. [Установка для Windows](https://github.com/kianurivzzz/sql-start#установка-для-windows)
 	1. Установка SQLite
 	2. Установка DB Browser for SQLite
-2. Установка для MacOS
+2. [Установка для MacOS](https://github.com/kianurivzzz/sql-start#установка-для-macos)
 	1. Установка SQLite
 	2. Установка DB Browser for SQLite
-3. Установка для Linux
+3. [Установка для Linux]()
 	1. Установка SQLite
 	2. Установка DB Browser for SQLite
 ## Установка для Windows
