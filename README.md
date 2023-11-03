@@ -8,7 +8,7 @@
 2. [Установка для MacOS](https://github.com/kianurivzzz/sql-start#установка-для-macos)
 	1. Установка SQLite
 	2. Установка DB Browser for SQLite
-3. [Установка для Linux]()
+3. [Установка для Linux](https://github.com/kianurivzzz/sql-start/blob/main/README.md#установка-для-linux-debianubuntu)
 	1. Установка SQLite
 	2. Установка DB Browser for SQLite
 ## Установка для Windows
